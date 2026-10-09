@@ -115,4 +115,4 @@ with st.expander("About this model"):
 - **Most important factors:** distance to central London, room type, number of guests and bedrooms.
 - **Limitations:** location is approximated by the typical location of listings in the chosen borough. The model doesn't account for photos, property quality or seasonal price changes, and is less accurate for very cheap or very expensive listings.
 """
-    )
+    
